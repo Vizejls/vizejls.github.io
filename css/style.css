@@ -1,0 +1,49 @@
+.no-decoration {
+    text-decoration: none;
+}
+
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../img/banner1.jpg');
+    background-size: cover;
+}
+
+.highlight {
+    height: 250px;
+}
+
+.kategori-pc {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../img/pc.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-laptop {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../img/laptop.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-acc {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../img/acc.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.img-box {
+    height: 350px;
+}
+
+span p {
+    font-size: smaller;
+}
+
+label {
+    font-size: smaller;
+}
+
+.banner-katalog {
+    height: 40vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../img/banner1.jpg');
+    background-size: cover;
+}
